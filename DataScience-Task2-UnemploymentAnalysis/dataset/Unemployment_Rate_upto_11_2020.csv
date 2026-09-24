@@ -1,0 +1,433 @@
+Region,Date,Frequency,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%),Area
+Andhra Pradesh,31-05-2019,Monthly,7.41,14375231,44.95,South
+Andhra Pradesh,30-06-2019,Monthly,9.96,14330242,44.47,South
+Andhra Pradesh,31-07-2019,Monthly,8.06,14313081,43.22,South
+Andhra Pradesh,31-08-2019,Monthly,9.89,14400108,43.87,South
+Andhra Pradesh,30-09-2019,Monthly,8.23,14322165,44.36,South
+Andhra Pradesh,31-10-2019,Monthly,6.18,14327812,45.14,South
+Andhra Pradesh,30-11-2019,Monthly,11.82,14378997,44.86,South
+Andhra Pradesh,31-12-2019,Monthly,8.13,14329273,45.35,South
+Andhra Pradesh,31-01-2020,Monthly,9.09,14327507,44.17,South
+Andhra Pradesh,29-02-2020,Monthly,8.55,14332603,44.78,South
+Andhra Pradesh,31-03-2020,Monthly,13.72,11599536,42.52,South
+Andhra Pradesh,30-04-2020,Monthly,29.3,7776833,40.0,South
+Andhra Pradesh,31-05-2020,Monthly,28.25,7682006,38.68,South
+Andhra Pradesh,30-06-2020,Monthly,14.72,10596983,42.21,South
+Andhra Pradesh,31-07-2020,Monthly,15.0,10514268,41.86,South
+Andhra Pradesh,31-08-2020,Monthly,11.53,12849897,44.57,South
+Andhra Pradesh,30-09-2020,Monthly,12.44,12858540,43.91,South
+Andhra Pradesh,31-10-2020,Monthly,10.62,12745383,44.69,South
+Assam,31-05-2019,Monthly,6.61,6110582,39.86,Northeast
+Assam,30-06-2019,Monthly,6.84,6060851,39.52,Northeast
+Assam,31-07-2019,Monthly,6.07,6119672,39.88,Northeast
+Assam,31-08-2019,Monthly,7.51,5911782,40.4,Northeast
+Assam,30-09-2019,Monthly,5.74,6027819,39.96,Northeast
+Assam,31-10-2019,Monthly,3.25,6031786,40.12,Northeast
+Assam,30-11-2019,Monthly,7.41,6016856,39.42,Northeast
+Assam,31-12-2019,Monthly,5.03,6088540,40.1,Northeast
+Assam,31-01-2020,Monthly,5.0,6068433,39.96,Northeast
+Assam,29-02-2020,Monthly,6.8,6007667,39.71,Northeast
+Assam,31-03-2020,Monthly,8.55,4800026,38.58,Northeast
+Assam,30-04-2020,Monthly,18.35,3214495,34.26,Northeast
+Assam,31-05-2020,Monthly,16.34,3193207,34.2,Northeast
+Assam,30-06-2020,Monthly,9.74,4435149,37.89,Northeast
+Assam,31-07-2020,Monthly,12.97,4451942,37.81,Northeast
+Assam,31-08-2020,Monthly,7.24,5299391,39.14,Northeast
+Assam,30-09-2020,Monthly,7.4,5518492,39.04,Northeast
+Assam,31-10-2020,Monthly,7.69,5393594,38.45,Northeast
+Bihar,31-05-2019,Monthly,13.93,5185375,43.58,East
+Bihar,30-06-2019,Monthly,16.52,5216978,44.9,East
+Bihar,31-07-2019,Monthly,13.8,5150563,43.77,East
+Bihar,31-08-2019,Monthly,15.96,5232048,44.59,East
+Bihar,30-09-2019,Monthly,14.87,5128441,44.46,East
+Bihar,31-10-2019,Monthly,13.39,5173535,43.52,East
+Bihar,30-11-2019,Monthly,15.6,5138671,43.83,East
+Bihar,31-12-2019,Monthly,13.79,5128881,44.4,East
+Bihar,31-01-2020,Monthly,16.11,5173040,44.88,East
+Bihar,29-02-2020,Monthly,17.9,5130493,43.94,East
+Bihar,31-03-2020,Monthly,22.04,4210115,43.35,East
+Bihar,30-04-2020,Monthly,46.5,2768498,39.3,East
+Bihar,31-05-2020,Monthly,47.81,2779986,38.67,East
+Bihar,30-06-2020,Monthly,26.77,3836819,42.61,East
+Bihar,31-07-2020,Monthly,29.11,3736626,41.36,East
+Bihar,31-08-2020,Monthly,17.96,4633783,44.08,East
+Bihar,30-09-2020,Monthly,19.82,4642311,42.8,East
+Bihar,31-10-2020,Monthly,19.49,4526790,42.85,East
+Chhattisgarh,31-05-2019,Monthly,7.77,14690496,40.72,Central
+Chhattisgarh,30-06-2019,Monthly,9.18,14635904,42.35,Central
+Chhattisgarh,31-07-2019,Monthly,8.19,14606279,40.07,Central
+Chhattisgarh,31-08-2019,Monthly,8.02,14637964,41.15,Central
+Chhattisgarh,30-09-2019,Monthly,8.01,14645495,40.21,Central
+Chhattisgarh,31-10-2019,Monthly,5.62,14626811,41.23,Central
+Chhattisgarh,30-11-2019,Monthly,7.7,14586850,40.82,Central
+Chhattisgarh,31-12-2019,Monthly,7.9,14604944,40.81,Central
+Chhattisgarh,31-01-2020,Monthly,7.51,14591988,40.93,Central
+Chhattisgarh,29-02-2020,Monthly,8.11,14703289,41.35,Central
+Chhattisgarh,31-03-2020,Monthly,10.25,11766929,39.53,Central
+Chhattisgarh,30-04-2020,Monthly,24.42,7817846,37.53,Central
+Chhattisgarh,31-05-2020,Monthly,24.49,7848872,35.79,Central
+Chhattisgarh,30-06-2020,Monthly,14.92,10755660,38.92,Central
+Chhattisgarh,31-07-2020,Monthly,13.21,10759583,38.18,Central
+Chhattisgarh,31-08-2020,Monthly,9.77,13195319,38.85,Central
+Chhattisgarh,30-09-2020,Monthly,10.5,12998951,39.68,Central
+Chhattisgarh,31-10-2020,Monthly,10.98,13082800,39.32,Central
+Delhi,31-05-2019,Monthly,15.57,4897844,44.29,North
+Delhi,30-06-2019,Monthly,13.69,4806430,43.74,North
+Delhi,31-07-2019,Monthly,13.96,4774244,43.21,North
+Delhi,31-08-2019,Monthly,10.7,4767082,44.47,North
+Delhi,30-09-2019,Monthly,12.3,4789781,43.67,North
+Delhi,31-10-2019,Monthly,10.77,4852942,44.23,North
+Delhi,30-11-2019,Monthly,13.15,4888240,42.68,North
+Delhi,31-12-2019,Monthly,14.91,4769136,42.71,North
+Delhi,31-01-2020,Monthly,12.42,4899273,43.46,North
+Delhi,29-02-2020,Monthly,11.58,4740926,43.41,North
+Delhi,31-03-2020,Monthly,17.93,3810533,42.9,North
+Delhi,30-04-2020,Monthly,42.23,2549788,37.7,North
+Delhi,31-05-2020,Monthly,40.71,2673609,38.22,North
+Delhi,30-06-2020,Monthly,25.22,3523460,41.26,North
+Delhi,31-07-2020,Monthly,24.91,3539888,40.09,North
+Delhi,31-08-2020,Monthly,18.05,4260023,43.99,North
+Delhi,30-09-2020,Monthly,17.33,4294328,42.99,North
+Delhi,31-10-2020,Monthly,16.38,4266458,42.85,North
+Goa,31-05-2019,Monthly,7.48,13025859,36.49,West
+Goa,30-06-2019,Monthly,7.36,13028359,36.46,West
+Goa,31-07-2019,Monthly,9.17,13014860,35.78,West
+Goa,31-08-2019,Monthly,7.52,13020743,36.65,West
+Goa,30-09-2019,Monthly,8.16,12989245,37.05,West
+Goa,31-10-2019,Monthly,7.48,13010733,36.16,West
+Goa,30-11-2019,Monthly,7.93,13038317,36.77,West
+Goa,31-12-2019,Monthly,9.17,13048652,36.29,West
+Goa,31-01-2020,Monthly,9.01,12967865,36.47,West
+Goa,29-02-2020,Monthly,8.03,12988228,36.64,West
+Goa,31-03-2020,Monthly,12.12,10575086,34.18,West
+Goa,30-04-2020,Monthly,24.75,6963958,31.25,West
+Goa,31-05-2020,Monthly,26.96,6937469,30.77,West
+Goa,30-06-2020,Monthly,14.48,9550392,33.62,West
+Goa,31-07-2020,Monthly,16.73,9539249,33.53,West
+Goa,31-08-2020,Monthly,10.26,11612949,35.19,West
+Goa,30-09-2020,Monthly,9.66,11604487,35.68,West
+Goa,31-10-2020,Monthly,10.04,11568750,35.67,West
+Gujarat,31-05-2019,Monthly,7.23,14802445,40.09,West
+Gujarat,30-06-2019,Monthly,7.48,14724460,41.43,West
+Gujarat,31-07-2019,Monthly,5.49,14826086,40.08,West
+Gujarat,31-08-2019,Monthly,5.79,14889871,40.95,West
+Gujarat,30-09-2019,Monthly,6.44,14830758,39.62,West
+Gujarat,31-10-2019,Monthly,4.84,14809154,40.77,West
+Gujarat,30-11-2019,Monthly,5.93,14875489,40.78,West
+Gujarat,31-12-2019,Monthly,5.91,14940102,40.73,West
+Gujarat,31-01-2020,Monthly,5.33,14919312,41.21,West
+Gujarat,29-02-2020,Monthly,8.03,14820767,41.08,West
+Gujarat,31-03-2020,Monthly,7.61,11995905,38.9,West
+Gujarat,30-04-2020,Monthly,17.09,7937967,33.91,West
+Gujarat,31-05-2020,Monthly,16.42,7904461,35.33,West
+Gujarat,30-06-2020,Monthly,12.28,10938800,39.13,West
+Gujarat,31-07-2020,Monthly,11.95,10895086,38.2,West
+Gujarat,31-08-2020,Monthly,7.26,13252554,39.08,West
+Gujarat,30-09-2020,Monthly,8.01,13233460,39.91,West
+Gujarat,31-10-2020,Monthly,7.94,13115167,39.2,West
+Haryana,31-05-2019,Monthly,7.74,2735230,46.11,North
+Haryana,30-06-2019,Monthly,8.48,2679500,46.29,North
+Haryana,31-07-2019,Monthly,7.88,2758603,46.8,North
+Haryana,31-08-2019,Monthly,6.38,2656175,47.14,North
+Haryana,30-09-2019,Monthly,8.13,2695457,47.31,North
+Haryana,31-10-2019,Monthly,7.87,2791846,46.42,North
+Haryana,30-11-2019,Monthly,10.21,2820648,46.23,North
+Haryana,31-12-2019,Monthly,8.9,2765150,47.2,North
+Haryana,31-01-2020,Monthly,6.58,2767184,47.01,North
+Haryana,29-02-2020,Monthly,5.62,2673718,45.15,North
+Haryana,31-03-2020,Monthly,12.05,2239813,45.78,North
+Haryana,30-04-2020,Monthly,24.84,1535091,40.05,North
+Haryana,31-05-2020,Monthly,22.7,1450882,41.11,North
+Haryana,30-06-2020,Monthly,14.66,1906099,44.07,North
+Haryana,31-07-2020,Monthly,13.13,2042955,44.35,North
+Haryana,31-08-2020,Monthly,8.93,2414379,44.99,North
+Haryana,30-09-2020,Monthly,9.98,2487829,45.04,North
+Haryana,31-10-2020,Monthly,10.66,2413559,45.15,North
+Himachal Pradesh,31-05-2019,Monthly,5.05,3143556,37.48,North
+Himachal Pradesh,30-06-2019,Monthly,4.03,3148035,37.47,North
+Himachal Pradesh,31-07-2019,Monthly,7.39,3213364,37.96,North
+Himachal Pradesh,31-08-2019,Monthly,6.03,3116312,37.8,North
+Himachal Pradesh,30-09-2019,Monthly,6.11,3091730,38.87,North
+Himachal Pradesh,31-10-2019,Monthly,6.4,3121806,36.13,North
+Himachal Pradesh,30-11-2019,Monthly,7.79,3103736,37.46,North
+Himachal Pradesh,31-12-2019,Monthly,7.93,3104519,37.5,North
+Himachal Pradesh,31-01-2020,Monthly,8.6,3030295,36.96,North
+Himachal Pradesh,29-02-2020,Monthly,5.68,3143787,37.42,North
+Himachal Pradesh,31-03-2020,Monthly,9.56,2510130,35.48,North
+Himachal Pradesh,30-04-2020,Monthly,21.24,1688109,32.49,North
+Himachal Pradesh,31-05-2020,Monthly,22.93,1709880,31.42,North
+Himachal Pradesh,30-06-2020,Monthly,12.86,2437196,35.81,North
+Himachal Pradesh,31-07-2020,Monthly,12.33,2397582,34.96,North
+Himachal Pradesh,31-08-2020,Monthly,8.0,2885083,35.91,North
+Himachal Pradesh,30-09-2020,Monthly,6.5,2862361,36.71,North
+Himachal Pradesh,31-10-2020,Monthly,8.95,2797226,36.55,North
+Jammu & Kashmir,31-05-2019,Monthly,5.82,5154250,37.96,North
+Jammu & Kashmir,30-06-2019,Monthly,5.53,5210973,37.9,North
+Jammu & Kashmir,31-07-2019,Monthly,6.24,5152072,37.58,North
+Jammu & Kashmir,31-08-2019,Monthly,7.44,5222496,37.34,North
+Jammu & Kashmir,30-09-2019,Monthly,6.65,5235019,36.93,North
+Jammu & Kashmir,31-10-2019,Monthly,7.18,5164319,38.27,North
+Jammu & Kashmir,30-11-2019,Monthly,5.61,5107206,36.95,North
+Jammu & Kashmir,31-12-2019,Monthly,6.59,5210436,37.39,North
+Jammu & Kashmir,31-01-2020,Monthly,7.29,5114374,37.89,North
+Jammu & Kashmir,29-02-2020,Monthly,5.08,5164858,37.96,North
+Jammu & Kashmir,31-03-2020,Monthly,9.41,4172264,37.03,North
+Jammu & Kashmir,30-04-2020,Monthly,20.2,2806385,31.75,North
+Jammu & Kashmir,31-05-2020,Monthly,21.53,2836679,30.95,North
+Jammu & Kashmir,30-06-2020,Monthly,11.45,3850508,35.56,North
+Jammu & Kashmir,31-07-2020,Monthly,12.85,3791455,35.73,North
+Jammu & Kashmir,31-08-2020,Monthly,8.3,4698969,37.33,North
+Jammu & Kashmir,30-09-2020,Monthly,8.89,4619986,36.89,North
+Jammu & Kashmir,31-10-2020,Monthly,7.97,4660303,36.93,North
+Jharkhand,31-05-2019,Monthly,11.33,8847231,40.16,East
+Jharkhand,30-06-2019,Monthly,13.21,8766029,38.97,East
+Jharkhand,31-07-2019,Monthly,12.91,8757673,39.36,East
+Jharkhand,31-08-2019,Monthly,11.67,8787891,40.8,East
+Jharkhand,30-09-2019,Monthly,12.72,8804631,39.78,East
+Jharkhand,31-10-2019,Monthly,12.0,8808110,40.65,East
+Jharkhand,30-11-2019,Monthly,10.6,8779831,40.61,East
+Jharkhand,31-12-2019,Monthly,13.15,8848146,40.36,East
+Jharkhand,31-01-2020,Monthly,11.07,8820041,39.65,East
+Jharkhand,29-02-2020,Monthly,10.67,8875339,40.55,East
+Jharkhand,31-03-2020,Monthly,18.23,7138110,39.58,East
+Jharkhand,30-04-2020,Monthly,36.75,4659401,34.47,East
+Jharkhand,31-05-2020,Monthly,38.44,4729449,35.64,East
+Jharkhand,30-06-2020,Monthly,23.35,6388867,38.22,East
+Jharkhand,31-07-2020,Monthly,20.87,6444832,38.16,East
+Jharkhand,31-08-2020,Monthly,16.15,7812467,38.16,East
+Jharkhand,30-09-2020,Monthly,15.36,7989187,39.43,East
+Jharkhand,31-10-2020,Monthly,15.2,7946117,39.91,East
+Karnataka,31-05-2019,Monthly,16.48,11261373,38.79,South
+Karnataka,30-06-2019,Monthly,13.61,11144622,37.75,South
+Karnataka,31-07-2019,Monthly,14.29,11248811,36.81,South
+Karnataka,31-08-2019,Monthly,16.06,11186201,37.57,South
+Karnataka,30-09-2019,Monthly,13.01,11111359,38.32,South
+Karnataka,31-10-2019,Monthly,14.31,11129604,37.05,South
+Karnataka,30-11-2019,Monthly,13.82,11277553,37.67,South
+Karnataka,31-12-2019,Monthly,12.42,11181815,37.67,South
+Karnataka,31-01-2020,Monthly,10.99,11191387,37.69,South
+Karnataka,29-02-2020,Monthly,15.06,11286550,38.51,South
+Karnataka,31-03-2020,Monthly,22.44,8972175,37.87,South
+Karnataka,30-04-2020,Monthly,45.59,5955006,32.32,South
+Karnataka,31-05-2020,Monthly,45.76,5947091,31.99,South
+Karnataka,30-06-2020,Monthly,26.37,8229319,35.25,South
+Karnataka,31-07-2020,Monthly,26.17,8236279,35.43,South
+Karnataka,31-08-2020,Monthly,20.3,9862185,37.74,South
+Karnataka,30-09-2020,Monthly,19.99,9891064,36.87,South
+Karnataka,31-10-2020,Monthly,18.05,9924358,36.61,South
+Kerala,31-05-2019,Monthly,12.02,7274910,36.25,South
+Kerala,30-06-2019,Monthly,11.48,7278320,35.87,South
+Kerala,31-07-2019,Monthly,11.56,7307026,36.6,South
+Kerala,31-08-2019,Monthly,10.18,7296010,36.17,South
+Kerala,30-09-2019,Monthly,12.42,7266523,36.45,South
+Kerala,31-10-2019,Monthly,11.74,7395864,35.7,South
+Kerala,30-11-2019,Monthly,10.65,7266676,35.3,South
+Kerala,31-12-2019,Monthly,13.56,7251469,35.81,South
+Kerala,31-01-2020,Monthly,13.02,7225888,36.76,South
+Kerala,29-02-2020,Monthly,9.74,7375878,35.0,South
+Kerala,31-03-2020,Monthly,16.2,5870773,35.39,South
+Kerala,30-04-2020,Monthly,36.57,3873397,31.61,South
+Kerala,31-05-2020,Monthly,39.19,3923795,30.43,South
+Kerala,30-06-2020,Monthly,21.23,5313183,34.12,South
+Kerala,31-07-2020,Monthly,19.78,5405199,35.26,South
+Kerala,31-08-2020,Monthly,15.73,6506492,35.87,South
+Kerala,30-09-2020,Monthly,16.82,6608474,34.95,South
+Kerala,31-10-2020,Monthly,15.48,6522045,36.04,South
+Madhya Pradesh,31-05-2019,Monthly,9.45,8709642,36.68,Central
+Madhya Pradesh,30-06-2019,Monthly,7.92,8715354,35.72,Central
+Madhya Pradesh,31-07-2019,Monthly,7.72,8678345,35.98,Central
+Madhya Pradesh,31-08-2019,Monthly,10.1,8698460,38.14,Central
+Madhya Pradesh,30-09-2019,Monthly,9.42,8755171,36.05,Central
+Madhya Pradesh,31-10-2019,Monthly,9.67,8717148,36.64,Central
+Madhya Pradesh,30-11-2019,Monthly,11.9,8741127,37.25,Central
+Madhya Pradesh,31-12-2019,Monthly,7.99,8744180,37.63,Central
+Madhya Pradesh,31-01-2020,Monthly,8.08,8836552,36.99,Central
+Madhya Pradesh,29-02-2020,Monthly,8.16,8777550,37.15,Central
+Madhya Pradesh,31-03-2020,Monthly,14.88,6974658,34.63,Central
+Madhya Pradesh,30-04-2020,Monthly,27.96,4648368,31.44,Central
+Madhya Pradesh,31-05-2020,Monthly,28.47,4585323,31.29,Central
+Madhya Pradesh,30-06-2020,Monthly,17.51,6458820,34.96,Central
+Madhya Pradesh,31-07-2020,Monthly,17.78,6453790,34.27,Central
+Madhya Pradesh,31-08-2020,Monthly,9.49,7830347,35.94,Central
+Madhya Pradesh,30-09-2020,Monthly,11.81,7745028,35.16,Central
+Madhya Pradesh,31-10-2020,Monthly,12.74,7806888,36.22,Central
+Maharashtra,31-05-2019,Monthly,11.93,13004193,39.2,West
+Maharashtra,30-06-2019,Monthly,15.15,12966090,39.91,West
+Maharashtra,31-07-2019,Monthly,14.12,12882657,39.44,West
+Maharashtra,31-08-2019,Monthly,14.87,13022530,40.0,West
+Maharashtra,30-09-2019,Monthly,12.0,13008417,40.26,West
+Maharashtra,31-10-2019,Monthly,13.68,13040300,39.42,West
+Maharashtra,30-11-2019,Monthly,13.01,12854911,40.38,West
+Maharashtra,31-12-2019,Monthly,14.0,12895051,38.77,West
+Maharashtra,31-01-2020,Monthly,12.57,13018825,39.65,West
+Maharashtra,29-02-2020,Monthly,12.65,12928836,39.2,West
+Maharashtra,31-03-2020,Monthly,19.47,10406680,37.69,West
+Maharashtra,30-04-2020,Monthly,44.4,6895512,33.83,West
+Maharashtra,31-05-2020,Monthly,46.36,6870604,35.03,West
+Maharashtra,30-06-2020,Monthly,27.82,9464988,37.62,West
+Maharashtra,31-07-2020,Monthly,25.26,9513540,37.91,West
+Maharashtra,31-08-2020,Monthly,16.96,11563721,38.98,West
+Maharashtra,30-09-2020,Monthly,17.26,11529841,39.56,West
+Maharashtra,31-10-2020,Monthly,18.96,11605700,38.85,West
+Odisha,31-05-2019,Monthly,9.1,4999422,42.08,East
+Odisha,30-06-2019,Monthly,6.78,4923922,42.64,East
+Odisha,31-07-2019,Monthly,8.03,5010139,42.34,East
+Odisha,31-08-2019,Monthly,6.29,4840663,42.01,East
+Odisha,30-09-2019,Monthly,7.2,4999356,42.13,East
+Odisha,31-10-2019,Monthly,7.51,4908807,43.16,East
+Odisha,30-11-2019,Monthly,10.28,4883085,42.15,East
+Odisha,31-12-2019,Monthly,8.5,4943723,43.55,East
+Odisha,31-01-2020,Monthly,7.95,4891664,42.8,East
+Odisha,29-02-2020,Monthly,8.57,4950653,42.75,East
+Odisha,31-03-2020,Monthly,12.87,4017842,41.77,East
+Odisha,30-04-2020,Monthly,23.96,2603148,37.03,East
+Odisha,31-05-2020,Monthly,24.63,2570657,37.16,East
+Odisha,30-06-2020,Monthly,13.29,3611458,40.96,East
+Odisha,31-07-2020,Monthly,13.99,3612343,39.38,East
+Odisha,31-08-2020,Monthly,10.31,4415871,42.99,East
+Odisha,30-09-2020,Monthly,9.05,4394554,41.84,East
+Odisha,31-10-2020,Monthly,11.31,4378832,41.86,East
+Punjab,31-05-2019,Monthly,11.54,14136790,37.12,North
+Punjab,30-06-2019,Monthly,10.84,14098217,37.33,North
+Punjab,31-07-2019,Monthly,9.15,14164616,36.94,North
+Punjab,31-08-2019,Monthly,11.48,14134720,36.91,North
+Punjab,30-09-2019,Monthly,11.17,14014603,37.67,North
+Punjab,31-10-2019,Monthly,12.62,14031315,36.99,North
+Punjab,30-11-2019,Monthly,9.85,14107478,37.62,North
+Punjab,31-12-2019,Monthly,12.51,14172458,38.02,North
+Punjab,31-01-2020,Monthly,11.06,14059017,37.16,North
+Punjab,29-02-2020,Monthly,12.09,14055002,38.23,North
+Punjab,31-03-2020,Monthly,19.2,11373837,35.3,North
+Punjab,30-04-2020,Monthly,35.44,7512415,31.59,North
+Punjab,31-05-2020,Monthly,37.38,7491556,32.03,North
+Punjab,30-06-2020,Monthly,21.49,10393163,34.84,North
+Punjab,31-07-2020,Monthly,22.37,10415807,35.26,North
+Punjab,31-08-2020,Monthly,15.45,12556679,36.67,North
+Punjab,30-09-2020,Monthly,16.22,12628467,35.86,North
+Punjab,31-10-2020,Monthly,14.66,12622646,36.03,North
+Rajasthan,31-05-2019,Monthly,9.46,4572768,42.4,North
+Rajasthan,30-06-2019,Monthly,8.52,4584512,40.77,North
+Rajasthan,31-07-2019,Monthly,8.76,4485627,40.95,North
+Rajasthan,31-08-2019,Monthly,10.22,4646111,42.15,North
+Rajasthan,30-09-2019,Monthly,8.14,4604435,41.9,North
+Rajasthan,31-10-2019,Monthly,7.91,4681991,42.43,North
+Rajasthan,30-11-2019,Monthly,9.04,4608165,42.02,North
+Rajasthan,31-12-2019,Monthly,6.85,4594462,41.49,North
+Rajasthan,31-01-2020,Monthly,8.1,4592766,42.98,North
+Rajasthan,29-02-2020,Monthly,10.07,4578262,42.24,North
+Rajasthan,31-03-2020,Monthly,16.56,3761410,40.43,North
+Rajasthan,30-04-2020,Monthly,28.99,2485348,36.64,North
+Rajasthan,31-05-2020,Monthly,30.84,2482195,37.03,North
+Rajasthan,30-06-2020,Monthly,17.03,3453238,39.77,North
+Rajasthan,31-07-2020,Monthly,20.17,3352909,40.69,North
+Rajasthan,31-08-2020,Monthly,12.33,4080662,40.86,North
+Rajasthan,30-09-2020,Monthly,11.71,4134441,41.46,North
+Rajasthan,31-10-2020,Monthly,11.41,4112015,42.43,North
+Tamil Nadu,31-05-2019,Monthly,9.2,11377836,38.44,South
+Tamil Nadu,30-06-2019,Monthly,10.81,11404175,38.68,South
+Tamil Nadu,31-07-2019,Monthly,11.67,11393281,37.62,South
+Tamil Nadu,31-08-2019,Monthly,9.47,11271532,39.94,South
+Tamil Nadu,30-09-2019,Monthly,10.43,11438664,37.76,South
+Tamil Nadu,31-10-2019,Monthly,9.87,11389648,38.85,South
+Tamil Nadu,30-11-2019,Monthly,11.19,11286932,39.57,South
+Tamil Nadu,31-12-2019,Monthly,11.49,11369704,38.33,South
+Tamil Nadu,31-01-2020,Monthly,10.94,11335048,37.75,South
+Tamil Nadu,29-02-2020,Monthly,10.49,11341786,39.38,South
+Tamil Nadu,31-03-2020,Monthly,14.2,9164681,36.55,South
+Tamil Nadu,30-04-2020,Monthly,34.15,6055747,33.19,South
+Tamil Nadu,31-05-2020,Monthly,34.74,5974745,33.91,South
+Tamil Nadu,30-06-2020,Monthly,19.2,8267516,36.33,South
+Tamil Nadu,31-07-2020,Monthly,17.54,8358019,36.34,South
+Tamil Nadu,31-08-2020,Monthly,15.2,10166038,37.16,South
+Tamil Nadu,30-09-2020,Monthly,12.71,10159625,38.5,South
+Tamil Nadu,31-10-2020,Monthly,15.19,10194317,37.94,South
+Telangana,31-05-2019,Monthly,12.75,9599789,46.38,South
+Telangana,30-06-2019,Monthly,13.01,9645988,46.45,South
+Telangana,31-07-2019,Monthly,13.94,9605570,46.47,South
+Telangana,31-08-2019,Monthly,10.66,9655423,46.63,South
+Telangana,30-09-2019,Monthly,14.25,9464793,47.67,South
+Telangana,31-10-2019,Monthly,12.89,9665015,45.8,South
+Telangana,30-11-2019,Monthly,13.79,9556935,46.04,South
+Telangana,31-12-2019,Monthly,15.35,9600072,46.55,South
+Telangana,31-01-2020,Monthly,14.1,9634390,46.51,South
+Telangana,29-02-2020,Monthly,13.49,9729777,46.38,South
+Telangana,31-03-2020,Monthly,21.13,7802215,45.58,South
+Telangana,30-04-2020,Monthly,43.21,5143429,40.23,South
+Telangana,31-05-2020,Monthly,43.74,5054175,41.1,South
+Telangana,30-06-2020,Monthly,23.9,7062680,44.37,South
+Telangana,31-07-2020,Monthly,25.19,7086983,45.14,South
+Telangana,31-08-2020,Monthly,17.52,8567798,46.25,South
+Telangana,30-09-2020,Monthly,18.4,8518625,46.03,South
+Telangana,31-10-2020,Monthly,17.82,8565127,46.49,South
+Tripura,31-05-2019,Monthly,11.64,3480530,42.0,Northeast
+Tripura,30-06-2019,Monthly,15.04,3485081,42.35,Northeast
+Tripura,31-07-2019,Monthly,11.63,3532669,42.64,Northeast
+Tripura,31-08-2019,Monthly,12.34,3617200,43.45,Northeast
+Tripura,30-09-2019,Monthly,10.48,3528568,42.57,Northeast
+Tripura,31-10-2019,Monthly,14.53,3540005,42.52,Northeast
+Tripura,30-11-2019,Monthly,11.79,3486077,43.4,Northeast
+Tripura,31-12-2019,Monthly,10.99,3679148,42.97,Northeast
+Tripura,31-01-2020,Monthly,13.99,3591491,42.38,Northeast
+Tripura,29-02-2020,Monthly,13.65,3553272,42.87,Northeast
+Tripura,31-03-2020,Monthly,21.04,2825642,40.51,Northeast
+Tripura,30-04-2020,Monthly,40.99,1943607,36.66,Northeast
+Tripura,31-05-2020,Monthly,39.88,1914904,37.94,Northeast
+Tripura,30-06-2020,Monthly,25.97,2589479,39.33,Northeast
+Tripura,31-07-2020,Monthly,24.88,2611684,39.7,Northeast
+Tripura,31-08-2020,Monthly,17.79,3273329,41.92,Northeast
+Tripura,30-09-2020,Monthly,17.32,3134136,42.62,Northeast
+Tripura,31-10-2020,Monthly,17.04,3152049,41.82,Northeast
+Uttar Pradesh,31-05-2019,Monthly,11.39,14370273,42.8,North
+Uttar Pradesh,30-06-2019,Monthly,10.54,14298113,44.27,North
+Uttar Pradesh,31-07-2019,Monthly,9.84,14333598,42.79,North
+Uttar Pradesh,31-08-2019,Monthly,12.41,14353495,43.97,North
+Uttar Pradesh,30-09-2019,Monthly,10.52,14382193,42.72,North
+Uttar Pradesh,31-10-2019,Monthly,13.91,14308863,43.41,North
+Uttar Pradesh,30-11-2019,Monthly,12.09,14388933,43.11,North
+Uttar Pradesh,31-12-2019,Monthly,11.18,14370434,43.13,North
+Uttar Pradesh,31-01-2020,Monthly,12.49,14478769,42.88,North
+Uttar Pradesh,29-02-2020,Monthly,9.69,14363829,44.77,North
+Uttar Pradesh,31-03-2020,Monthly,17.17,11669248,42.73,North
+Uttar Pradesh,30-04-2020,Monthly,35.6,7671131,38.7,North
+Uttar Pradesh,31-05-2020,Monthly,35.81,7632503,37.37,North
+Uttar Pradesh,30-06-2020,Monthly,20.31,10532421,40.23,North
+Uttar Pradesh,31-07-2020,Monthly,21.57,10526386,41.11,North
+Uttar Pradesh,31-08-2020,Monthly,12.86,12845332,42.97,North
+Uttar Pradesh,30-09-2020,Monthly,12.34,12847491,43.21,North
+Uttar Pradesh,31-10-2020,Monthly,13.28,12912417,42.72,North
+Uttarakhand,31-05-2019,Monthly,8.46,2813321,42.2,North
+Uttarakhand,30-06-2019,Monthly,9.75,2861023,42.56,North
+Uttarakhand,31-07-2019,Monthly,11.23,2721123,42.43,North
+Uttarakhand,31-08-2019,Monthly,7.96,2785500,43.22,North
+Uttarakhand,30-09-2019,Monthly,9.74,2843202,42.3,North
+Uttarakhand,31-10-2019,Monthly,9.92,2755476,42.96,North
+Uttarakhand,30-11-2019,Monthly,10.26,2810970,42.11,North
+Uttarakhand,31-12-2019,Monthly,8.58,2746636,42.6,North
+Uttarakhand,31-01-2020,Monthly,9.76,2817254,42.24,North
+Uttarakhand,29-02-2020,Monthly,7.73,2889637,42.07,North
+Uttarakhand,31-03-2020,Monthly,16.45,2244991,41.4,North
+Uttarakhand,30-04-2020,Monthly,30.88,1460465,37.53,North
+Uttarakhand,31-05-2020,Monthly,30.36,1538022,37.59,North
+Uttarakhand,30-06-2020,Monthly,19.06,2020122,40.36,North
+Uttarakhand,31-07-2020,Monthly,16.91,2027827,39.88,North
+Uttarakhand,31-08-2020,Monthly,14.12,2486321,42.1,North
+Uttarakhand,30-09-2020,Monthly,12.28,2493673,43.48,North
+Uttarakhand,31-10-2020,Monthly,12.19,2451274,42.32,North
+West Bengal,31-05-2019,Monthly,9.29,7173270,37.79,East
+West Bengal,30-06-2019,Monthly,10.66,7179094,38.05,East
+West Bengal,31-07-2019,Monthly,10.1,7083846,37.19,East
+West Bengal,31-08-2019,Monthly,9.85,7122134,38.12,East
+West Bengal,30-09-2019,Monthly,11.86,7243557,37.63,East
+West Bengal,31-10-2019,Monthly,11.81,7190052,37.55,East
+West Bengal,30-11-2019,Monthly,9.29,7167495,37.52,East
+West Bengal,31-12-2019,Monthly,10.23,7190648,37.76,East
+West Bengal,31-01-2020,Monthly,10.55,7242151,38.33,East
+West Bengal,29-02-2020,Monthly,8.24,7054923,38.32,East
+West Bengal,31-03-2020,Monthly,14.4,5781196,35.55,East
+West Bengal,30-04-2020,Monthly,29.92,3847615,32.71,East
+West Bengal,31-05-2020,Monthly,31.39,3690990,31.93,East
+West Bengal,30-06-2020,Monthly,19.52,5207392,35.62,East
+West Bengal,31-07-2020,Monthly,19.03,5310302,35.58,East
+West Bengal,31-08-2020,Monthly,11.87,6472881,36.91,East
+West Bengal,30-09-2020,Monthly,13.0,6366389,36.74,East
+West Bengal,31-10-2020,Monthly,11.97,6404405,38.03,East

@@ -1,0 +1,302 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+ritz,2014,2.06,6.57,162762,Petrol,Individual,Manual,0
+sx4,2015,3.95,9.65,138658,Diesel,Individual,Manual,0
+ciaz,2019,4.93,11.64,60729,Diesel,Dealer,Manual,0
+wagon r,2019,3.11,5.32,106336,CNG,Dealer,Manual,0
+swift,2014,2.07,8.12,180918,Petrol,Dealer,Manual,0
+vitara brezza,2011,3.22,13.98,137926,Diesel,Dealer,Manual,0
+s cross,2021,6.12,10.55,53227,Diesel,Individual,Manual,0
+alto 800,2022,2.99,3.71,57532,Petrol,Individual,Automatic,0
+ertiga,2022,7.99,10.08,35629,Diesel,Dealer,Automatic,0
+dzire,2015,3.55,8.47,110157,Petrol,Dealer,Manual,0
+alto k10,2020,2.83,4.48,50488,Petrol,Dealer,Manual,0
+ignis,2018,3.82,7.32,64016,Petrol,Individual,Automatic,0
+i20,2019,3.35,8.65,71649,Petrol,Dealer,Manual,0
+grand i10,2010,1.87,7.85,176103,Petrol,Individual,Manual,0
+verna,2014,3.94,14.33,159882,Diesel,Dealer,Manual,0
+creta,2014,6.02,17.31,131655,Diesel,Dealer,Automatic,0
+elantra,2020,10.62,19.67,69452,Petrol,Dealer,Manual,0
+city,2013,5.0,15.15,141122,Petrol,Dealer,Automatic,0
+amaze,2017,4.36,8.57,74286,Diesel,Dealer,Manual,0
+fortuner,2016,14.45,37.1,96091,Diesel,Dealer,Manual,0
+innova,2010,5.61,27.87,148147,Diesel,Individual,Manual,0
+corolla altis,2008,3.88,19.57,164854,Petrol,Dealer,Manual,0
+etios liva,2008,1.6,7.57,271372,Diesel,Dealer,Manual,0
+brio,2010,1.3,6.59,201206,Petrol,Dealer,Automatic,0
+jazz,2011,2.88,9.99,118957,Petrol,Dealer,Manual,0
+duster,2018,6.52,12.16,111442,Diesel,Individual,Manual,0
+kwid,2020,2.74,4.59,87012,Petrol,Individual,Manual,0
+polo,2011,1.93,10.61,220821,Petrol,Dealer,Automatic,0
+vento,2019,7.61,12.2,93141,Diesel,Individual,Automatic,0
+xuv500,2016,7.79,19.13,113210,Diesel,Dealer,Manual,1
+ritz,2012,1.93,6.76,200917,Petrol,Dealer,Manual,0
+sx4,2018,5.03,9.23,118323,Diesel,Dealer,Manual,0
+ciaz,2010,2.99,13.3,240589,Petrol,Dealer,Manual,0
+wagon r,2008,0.65,6.26,198935,Diesel,Dealer,Manual,0
+swift,2008,1.88,8.87,206079,Petrol,Dealer,Manual,1
+vitara brezza,2018,5.34,12.61,88149,Petrol,Dealer,Manual,0
+s cross,2020,5.58,10.71,70548,Petrol,Dealer,Manual,1
+alto 800,2012,1.51,4.3,163795,Diesel,Dealer,Manual,0
+ertiga,2010,2.93,12.03,136511,Petrol,Individual,Automatic,0
+dzire,2014,1.97,8.6,98602,Petrol,Dealer,Manual,0
+alto k10,2013,0.73,4.97,130887,Petrol,Dealer,Manual,0
+ignis,2015,2.72,7.65,140172,Petrol,Individual,Manual,0
+i20,2014,2.49,9.31,149564,Petrol,Dealer,Manual,0
+grand i10,2019,4.18,6.88,70603,Diesel,Dealer,Manual,0
+verna,2020,5.9,13.11,55751,Petrol,Dealer,Manual,1
+creta,2008,3.16,18.92,186240,Petrol,Dealer,Manual,1
+elantra,2014,7.17,21.49,128049,Petrol,Dealer,Manual,0
+city,2015,5.45,14.71,161142,Diesel,Individual,Manual,0
+amaze,2014,2.84,8.96,89733,Petrol,Individual,Manual,0
+fortuner,2019,17.35,35.49,53482,Petrol,Dealer,Manual,0
+innova,2014,9.07,26.27,91394,Diesel,Dealer,Manual,0
+corolla altis,2012,4.44,18.45,178690,Petrol,Dealer,Manual,0
+etios liva,2018,2.75,6.53,110191,Petrol,Dealer,Manual,0
+brio,2008,1.4,6.78,221879,Petrol,Dealer,Manual,0
+jazz,2010,1.71,10.13,194910,Petrol,Dealer,Manual,0
+duster,2011,3.67,13.48,190795,Diesel,Individual,Manual,0
+kwid,2016,2.75,4.87,116729,Diesel,Individual,Automatic,0
+polo,2015,3.27,10.0,158113,Diesel,Dealer,Manual,0
+vento,2016,4.7,12.75,105170,Petrol,Individual,Manual,1
+xuv500,2011,4.42,20.6,176202,Petrol,Dealer,Manual,0
+ritz,2012,2.14,6.76,186487,Diesel,Dealer,Automatic,1
+sx4,2018,5.7,9.23,67127,Diesel,Individual,Automatic,0
+ciaz,2021,7.49,11.31,66255,Petrol,Individual,Manual,0
+wagon r,2020,2.03,5.25,61289,Petrol,Individual,Manual,0
+swift,2019,2.81,7.54,57168,Petrol,Individual,Manual,0
+vitara brezza,2009,2.64,14.4,184818,Diesel,Individual,Manual,0
+s cross,2010,3.13,12.41,187860,Petrol,Dealer,Manual,0
+alto 800,2020,2.07,3.82,91406,Petrol,Dealer,Automatic,1
+ertiga,2011,3.3,11.86,174017,Petrol,Dealer,Manual,0
+dzire,2018,3.16,8.1,77764,Petrol,Dealer,Manual,0
+alto k10,2017,1.68,4.68,77633,Petrol,Dealer,Manual,0
+ignis,2022,4.06,6.9,47083,Petrol,Dealer,Manual,0
+i20,2010,2.22,9.88,219901,Petrol,Dealer,Automatic,0
+grand i10,2012,2.75,7.63,103777,Diesel,Dealer,Automatic,0
+verna,2017,6.06,13.71,95349,Diesel,Dealer,Manual,0
+creta,2012,4.5,17.83,212861,Diesel,Dealer,Manual,0
+elantra,2010,4.67,22.8,147809,Petrol,Dealer,Manual,0
+city,2009,3.12,16.07,171853,Petrol,Dealer,Manual,0
+amaze,2009,0.6,9.64,236973,Diesel,Dealer,Manual,0
+fortuner,2012,10.13,39.36,169051,Diesel,Individual,Manual,1
+innova,2009,5.5,28.28,203073,Petrol,Dealer,Manual,0
+corolla altis,2021,10.33,16.15,64517,Diesel,Individual,Manual,0
+etios liva,2008,0.5,7.57,167218,Petrol,Dealer,Manual,0
+brio,2022,4.37,5.52,36378,Petrol,Dealer,Manual,0
+jazz,2011,2.95,9.99,150746,Diesel,Dealer,Automatic,0
+duster,2009,2.22,13.88,161788,Petrol,Dealer,Manual,0
+kwid,2021,2.97,4.52,51671,Petrol,Dealer,Manual,0
+polo,2018,5.13,9.57,119579,Petrol,Individual,Manual,0
+vento,2011,3.18,13.73,131759,Diesel,Dealer,Manual,0
+xuv500,2018,8.96,18.57,74185,Diesel,Individual,Manual,0
+ritz,2009,1.86,7.07,183634,Petrol,Dealer,Manual,0
+sx4,2013,2.75,9.94,128918,Petrol,Dealer,Manual,0
+ciaz,2016,3.33,12.17,113033,Petrol,Individual,Manual,0
+wagon r,2012,2.1,5.9,140970,Diesel,Dealer,Manual,0
+swift,2016,2.89,7.88,92687,Petrol,Dealer,Manual,0
+vitara brezza,2018,6.49,12.61,113037,Diesel,Dealer,Manual,0
+s cross,2009,1.8,12.6,197134,Petrol,Individual,Manual,1
+alto 800,2011,1.37,4.37,135647,Diesel,Individual,Manual,0
+ertiga,2022,6.45,10.08,46422,Petrol,Dealer,Manual,0
+dzire,2015,2.85,8.47,149588,Petrol,Dealer,Manual,0
+alto k10,2013,1.06,4.97,138508,Petrol,Individual,Manual,0
+ignis,2008,0.76,8.48,236686,Petrol,Individual,Manual,0
+i20,2019,4.54,8.65,59888,Petrol,Dealer,Manual,1
+grand i10,2009,0.72,7.97,232375,Diesel,Individual,Manual,0
+verna,2022,9.15,12.73,47799,Petrol,Dealer,Manual,0
+creta,2013,4.38,17.57,192180,Diesel,Individual,Manual,0
+elantra,2008,3.56,23.49,205072,Petrol,Individual,Manual,0
+city,2011,3.59,15.6,177979,Petrol,Individual,Manual,0
+amaze,2022,6.35,7.96,58349,Diesel,Dealer,Manual,0
+fortuner,2018,15.37,36.02,100835,Petrol,Individual,Manual,0
+innova,2021,15.09,23.69,74935,Petrol,Dealer,Manual,0
+corolla altis,2015,5.47,17.65,158277,Petrol,Individual,Manual,0
+etios liva,2022,4.2,6.15,34484,Petrol,Dealer,Manual,0
+brio,2017,2.34,5.94,125605,Diesel,Dealer,Manual,0
+jazz,2022,5.91,8.49,44784,Diesel,Dealer,Manual,0
+duster,2017,4.86,12.34,130614,Petrol,Dealer,Automatic,0
+kwid,2018,2.57,4.73,87158,Petrol,Dealer,Manual,0
+polo,2018,4.21,9.57,99667,Petrol,Dealer,Automatic,0
+vento,2011,2.31,13.73,158277,Petrol,Dealer,Manual,0
+xuv500,2015,5.31,19.41,159107,Petrol,Dealer,Manual,0
+ritz,2010,2.32,6.97,124047,Diesel,Dealer,Manual,0
+sx4,2011,2.22,10.24,130803,Petrol,Individual,Manual,1
+ciaz,2009,2.13,13.5,177721,Diesel,Individual,Automatic,0
+wagon r,2014,1.85,5.73,149828,Petrol,Individual,Manual,0
+swift,2022,6.45,7.21,55940,Petrol,Individual,Automatic,0
+vitara brezza,2012,3.16,13.77,145337,Diesel,Dealer,Manual,0
+s cross,2010,2.08,12.41,129629,Petrol,Dealer,Automatic,0
+alto 800,2009,0.5,4.5,172566,Petrol,Dealer,Manual,0
+ertiga,2009,2.9,12.21,238995,Diesel,Individual,Manual,0
+dzire,2008,1.51,9.39,200088,Petrol,Dealer,Manual,0
+alto k10,2013,1.55,4.97,161626,CNG,Dealer,Manual,0
+ignis,2013,1.82,7.88,100686,Diesel,Individual,Manual,0
+i20,2012,1.63,9.59,131890,Diesel,Dealer,Manual,0
+grand i10,2017,2.14,7.08,94515,Petrol,Individual,Manual,0
+verna,2017,4.91,13.71,72763,Petrol,Dealer,Manual,0
+creta,2022,12.22,15.38,59935,Diesel,Dealer,Manual,0
+elantra,2010,4.49,22.8,224635,Petrol,Dealer,Manual,0
+city,2018,6.98,14.07,95314,Petrol,Individual,Manual,0
+amaze,2021,5.67,8.08,38781,Petrol,Dealer,Automatic,0
+fortuner,2022,24.38,33.95,35437,Diesel,Individual,Manual,0
+innova,2013,7.28,26.66,159495,Petrol,Dealer,Manual,1
+corolla altis,2014,5.89,17.91,141514,Diesel,Dealer,Manual,0
+etios liva,2015,3.53,6.82,164179,Diesel,Individual,Manual,0
+brio,2021,4.13,5.6,62892,Petrol,Dealer,Automatic,0
+jazz,2017,3.66,9.14,116546,Petrol,Individual,Manual,0
+duster,2020,7.7,11.8,75502,Petrol,Dealer,Automatic,0
+kwid,2020,3.97,4.59,71875,Diesel,Dealer,Manual,0
+polo,2019,4.18,9.43,105373,Petrol,Dealer,Manual,0
+vento,2008,2.56,14.35,144073,Petrol,Individual,Manual,0
+xuv500,2022,13.53,17.5,45552,Petrol,Dealer,Automatic,0
+ritz,2012,1.72,6.76,109723,CNG,Individual,Manual,1
+sx4,2020,4.89,8.96,75067,Diesel,Dealer,Manual,0
+ciaz,2016,6.04,12.17,88221,Diesel,Individual,Manual,0
+wagon r,2008,1.35,6.26,155601,Petrol,Dealer,Automatic,1
+swift,2010,0.95,8.61,144919,Diesel,Dealer,Automatic,0
+vitara brezza,2018,5.02,12.61,69008,Petrol,Individual,Manual,0
+s cross,2016,4.07,11.36,116022,Petrol,Dealer,Manual,0
+alto 800,2012,0.83,4.3,126680,Diesel,Individual,Manual,1
+ertiga,2021,6.65,10.23,62441,Petrol,Individual,Manual,0
+dzire,2015,3.89,8.47,102203,Diesel,Individual,Manual,0
+alto k10,2017,2.05,4.68,75358,Diesel,Dealer,Automatic,0
+ignis,2021,4.08,7.0,74477,Diesel,Individual,Manual,0
+i20,2020,4.38,8.52,73748,Petrol,Dealer,Manual,0
+grand i10,2010,1.65,7.85,210996,Petrol,Individual,Manual,0
+verna,2012,4.28,14.76,111700,Petrol,Individual,Automatic,0
+creta,2013,5.61,17.57,128444,Petrol,Individual,Automatic,0
+elantra,2019,10.11,19.96,93230,Petrol,Dealer,Manual,0
+city,2018,6.48,14.07,104339,Petrol,Dealer,Automatic,0
+amaze,2016,3.18,8.69,84975,Diesel,Dealer,Manual,0
+fortuner,2010,8.63,40.54,237505,Petrol,Individual,Automatic,0
+innova,2011,5.59,27.46,155687,Petrol,Dealer,Manual,0
+corolla altis,2008,3.5,19.57,224435,Petrol,Dealer,Manual,0
+etios liva,2016,2.07,6.72,143869,Petrol,Dealer,Manual,0
+brio,2015,2.44,6.12,161980,Petrol,Dealer,Manual,0
+jazz,2021,5.98,8.61,65185,Petrol,Dealer,Manual,0
+duster,2015,3.24,12.71,109099,Petrol,Dealer,Manual,0
+kwid,2022,3.95,4.46,49767,Diesel,Individual,Automatic,1
+polo,2016,3.93,9.85,93299,Petrol,Dealer,Manual,0
+vento,2008,1.88,14.35,209540,Diesel,Dealer,Manual,1
+xuv500,2013,5.31,20.0,152733,Diesel,Individual,Manual,0
+ritz,2015,2.49,6.47,135991,Diesel,Dealer,Manual,0
+sx4,2015,3.35,9.65,144228,Diesel,Dealer,Manual,0
+ciaz,2011,2.53,13.11,177718,Petrol,Dealer,Manual,0
+wagon r,2020,2.81,5.25,75773,Diesel,Dealer,Manual,0
+swift,2014,2.39,8.12,93074,Petrol,Individual,Manual,3
+vitara brezza,2017,5.08,12.79,93478,Petrol,Dealer,Manual,0
+s cross,2021,6.89,10.55,76408,Diesel,Dealer,Manual,0
+alto 800,2011,1.57,4.37,112440,Petrol,Individual,Automatic,0
+ertiga,2017,4.4,10.85,135618,Diesel,Dealer,Manual,0
+dzire,2015,3.2,8.47,114144,Petrol,Dealer,Automatic,0
+alto k10,2012,1.79,5.04,107294,Petrol,Individual,Manual,0
+ignis,2013,1.44,7.88,163748,Diesel,Dealer,Manual,0
+i20,2015,3.31,9.18,134433,Diesel,Dealer,Manual,0
+grand i10,2017,2.14,7.08,115628,Petrol,Dealer,Manual,0
+verna,2013,4.03,14.54,112624,Diesel,Dealer,Manual,0
+creta,2022,12.89,15.38,57403,Petrol,Dealer,Automatic,0
+elantra,2012,5.98,22.14,206743,Diesel,Dealer,Manual,0
+city,2019,6.18,13.86,61047,Petrol,Individual,Manual,0
+amaze,2020,3.95,8.2,85906,Petrol,Dealer,Manual,0
+fortuner,2012,10.66,39.36,111315,Petrol,Dealer,Automatic,0
+innova,2008,4.85,28.71,250977,Petrol,Dealer,Manual,0
+corolla altis,2018,9.15,16.88,117393,Diesel,Dealer,Automatic,0
+etios liva,2012,1.58,7.13,166935,Petrol,Dealer,Manual,0
+brio,2018,2.55,5.85,116676,Diesel,Individual,Manual,1
+jazz,2020,5.65,8.74,82145,Diesel,Dealer,Manual,0
+duster,2017,4.11,12.34,93440,Petrol,Dealer,Manual,0
+kwid,2010,2.62,5.32,144099,Petrol,Dealer,Manual,0
+polo,2015,3.58,10.0,126180,Diesel,Individual,Manual,0
+vento,2012,3.97,13.53,128322,Diesel,Individual,Manual,0
+xuv500,2016,6.95,19.13,123425,Petrol,Individual,Manual,0
+ritz,2020,3.63,6.01,73004,Petrol,Dealer,Manual,0
+sx4,2009,1.1,10.54,177023,Petrol,Dealer,Manual,0
+ciaz,2017,5.2,11.99,123790,Diesel,Dealer,Manual,0
+wagon r,2014,2.12,5.73,164506,Petrol,Dealer,Automatic,0
+swift,2013,1.56,8.24,146821,Petrol,Dealer,Manual,0
+vitara brezza,2012,3.31,13.77,135541,Diesel,Dealer,Manual,0
+s cross,2011,2.57,12.23,125426,Petrol,Dealer,Manual,0
+alto 800,2012,0.97,4.3,171887,Petrol,Dealer,Manual,0
+ertiga,2016,4.77,11.01,111510,Petrol,Dealer,Manual,0
+dzire,2018,3.67,8.1,121139,Diesel,Dealer,Manual,1
+alto k10,2020,3.19,4.48,47555,Diesel,Dealer,Manual,0
+ignis,2020,3.36,7.1,71627,Diesel,Dealer,Manual,0
+i20,2015,2.21,9.18,138338,Petrol,Dealer,Manual,0
+grand i10,2010,0.89,7.85,208344,Petrol,Dealer,Manual,1
+verna,2020,6.9,13.11,77136,Petrol,Dealer,Manual,0
+creta,2021,10.23,15.61,45732,Diesel,Dealer,Manual,0
+elantra,2008,3.89,23.49,248400,Petrol,Dealer,Manual,0
+city,2011,4.63,15.6,194774,Petrol,Dealer,Manual,0
+amaze,2009,1.91,9.64,250442,Petrol,Individual,Manual,1
+fortuner,2019,17.66,35.49,98168,Petrol,Dealer,Manual,0
+innova,2021,15.01,23.69,72811,Diesel,Dealer,Manual,0
+corolla altis,2021,10.11,16.15,78863,Diesel,Dealer,Manual,0
+etios liva,2022,4.62,6.15,45718,Diesel,Individual,Manual,1
+brio,2009,1.7,6.69,132312,Petrol,Dealer,Manual,0
+jazz,2019,5.18,8.87,68306,Diesel,Dealer,Automatic,0
+duster,2014,3.66,12.9,102652,Petrol,Dealer,Manual,0
+kwid,2009,0.61,5.4,128937,Petrol,Dealer,Manual,0
+polo,2014,3.71,10.15,154258,Diesel,Dealer,Manual,0
+vento,2019,7.3,12.2,67969,Diesel,Individual,Manual,0
+xuv500,2010,3.6,20.9,162212,Petrol,Dealer,Manual,1
+ritz,2014,2.15,6.57,128752,Petrol,Individual,Manual,0
+sx4,2020,4.62,8.96,43822,Diesel,Dealer,Manual,0
+ciaz,2008,2.82,13.7,143501,Diesel,Dealer,Manual,0
+wagon r,2010,0.84,6.08,162572,Diesel,Dealer,Automatic,0
+swift,2008,2.67,8.87,222275,Diesel,Dealer,Manual,0
+vitara brezza,2009,2.55,14.4,175316,Diesel,Dealer,Manual,0
+s cross,2010,2.27,12.41,129515,Petrol,Individual,Manual,0
+alto 800,2015,1.56,4.12,90360,Diesel,Individual,Manual,0
+ertiga,2018,5.71,10.69,120361,Diesel,Dealer,Manual,0
+dzire,2017,3.59,8.22,66499,Petrol,Individual,Manual,0
+alto k10,2016,1.68,4.75,104548,Petrol,Dealer,Manual,0
+ignis,2022,5.18,6.9,62187,Petrol,Dealer,Manual,0
+i20,2022,5.57,8.28,49023,Diesel,Dealer,Manual,1
+grand i10,2018,2.68,6.98,95237,Petrol,Dealer,Automatic,0
+verna,2010,3.47,15.2,229461,CNG,Individual,Manual,0
+creta,2012,3.91,17.83,186272,Diesel,Individual,Manual,0
+elantra,2018,9.9,20.26,78144,CNG,Individual,Manual,0
+city,2018,5.77,14.07,120254,Petrol,Individual,Manual,0
+amaze,2020,4.97,8.2,79198,Petrol,Dealer,Manual,0
+fortuner,2022,24.41,33.95,37404,Petrol,Dealer,Manual,3
+innova,2015,8.63,25.88,96922,Diesel,Dealer,Manual,0
+corolla altis,2016,6.41,17.39,102436,Petrol,Dealer,Manual,0
+etios liva,2008,1.72,7.57,130244,Diesel,Dealer,Manual,0
+brio,2012,1.5,6.4,116661,Petrol,Individual,Automatic,0
+jazz,2012,2.34,9.84,174081,Diesel,Dealer,Manual,0
+duster,2021,8.75,11.63,68748,Petrol,Dealer,Manual,0
+kwid,2009,0.88,5.4,203452,Petrol,Individual,Manual,0
+polo,2021,5.66,9.15,76418,Diesel,Dealer,Manual,0
+vento,2014,3.33,13.13,158136,Petrol,Dealer,Manual,0
+xuv500,2011,5.41,20.6,166609,Petrol,Dealer,Manual,0
+ritz,2016,2.34,6.38,147861,Petrol,Dealer,Manual,0
+sx4,2020,4.31,8.96,84549,Petrol,Dealer,Automatic,0
+ciaz,2012,3.09,12.91,155825,Petrol,Dealer,Manual,0
+wagon r,2008,2.01,6.26,242009,Diesel,Dealer,Manual,0
+swift,2022,4.68,7.21,59507,Diesel,Dealer,Manual,0
+vitara brezza,2019,5.52,12.42,94984,Petrol,Individual,Manual,0
+s cross,2019,4.5,10.87,60008,Petrol,Dealer,Automatic,0
+alto 800,2014,1.79,4.18,94718,Petrol,Individual,Automatic,0
+ertiga,2014,3.72,11.34,126507,Petrol,Dealer,Manual,1
+dzire,2017,2.6,8.22,80117,Petrol,Individual,Manual,0
+alto k10,2016,1.35,4.75,73390,Petrol,Dealer,Automatic,0
+ignis,2009,1.53,8.36,177030,Petrol,Individual,Manual,0
+i20,2013,1.32,9.45,182968,Petrol,Individual,Manual,0
+grand i10,2020,3.07,6.77,79552,Petrol,Dealer,Manual,0
+verna,2010,3.18,15.2,214602,Petrol,Individual,Manual,0
+creta,2011,3.94,18.1,214463,Diesel,Dealer,Manual,0
+elantra,2009,3.74,23.14,130144,Petrol,Dealer,Manual,0
+city,2018,5.03,14.07,85332,Petrol,Dealer,Manual,0
+amaze,2019,4.0,8.32,96610,Petrol,Dealer,Manual,0
+fortuner,2019,17.44,35.49,92309,Petrol,Dealer,Manual,1
+innova,2018,10.45,24.76,122921,Petrol,Dealer,Manual,0
+corolla altis,2021,10.85,16.15,62392,Diesel,Dealer,Manual,0
+etios liva,2008,1.42,7.57,189067,Petrol,Individual,Manual,3
+brio,2010,1.05,6.59,184371,Diesel,Dealer,Manual,1
+jazz,2019,4.82,8.87,99452,Diesel,Dealer,Manual,1
+duster,2016,5.29,12.52,100872,Diesel,Individual,Manual,0
+kwid,2019,2.93,4.66,96443,Diesel,Dealer,Automatic,0
+polo,2014,2.67,10.15,148342,Diesel,Individual,Manual,0
+vento,2008,2.56,14.35,147501,Petrol,Dealer,Manual,0
+xuv500,2008,3.34,21.53,248387,Petrol,Dealer,Automatic,0
+ritz,2022,4.48,5.83,38078,Diesel,Dealer,Manual,1
